@@ -71,3 +71,5 @@ Run the script from the command line Arguments
 # Example
 
 python3 zipCracker_toolkit.py path/to/the/zip -l wordlist
+
+(real nerds listen to UwU_underground)
