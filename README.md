@@ -18,7 +18,7 @@
 
 ## Overview
 
-ZipCracker Toolkit is a Python-based utility designed to extract potential passwords from a text file and use them to crack password-protected ZIP archives.
+ZipCracker Toolkit is a Python-based utility made on a training course to extract potential passwords from a text file and use them to crack password-protected ZIP archives.
 It was written as part of a programming exercise to demonstrate file handling, regular expressions (or tokenization), error management, and ZIP manipulation using Python's standard librairies.
 
 The tool consists of a single script that:
@@ -27,10 +27,7 @@ The tool consists of a single script that:
 
 - Attempts to extract a ZIP archive, first without a password, and if protected, brute-forces it using the generated or provided wordlist.
 
-This project emphasizes robust error handling, such as checking for file existence and handling extraction failures, making it suitable for educational purposes or simple security testing scenarios.
-
-Note: This tool is for educational and ethical use only. Cracking passwords without permission may violate laws or terms of service.
-HAcking is illegal and for nerds
+Note: This tool is for educational and ethical use only. Cracking passwords without permission is may be considered hacking. HAcking is illegal and for nerds
 
 ## Features
 
